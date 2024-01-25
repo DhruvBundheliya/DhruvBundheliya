@@ -66,6 +66,8 @@ Let's connect and explore how we can collaborate on innovative projects that dri
 ## LinkedIn Profile
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/dhruv-bundheliya-a50004287/).
+[Credly](https://www.credly.com/users/dhruv-bundheliya)
+[Linux Foundation](https://openprofile.dev/profile/dhruv.bundheliya)
 
 Thank you for visiting!
 
