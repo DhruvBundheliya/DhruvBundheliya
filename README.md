@@ -65,7 +65,7 @@ Let's connect and explore how we can collaborate on innovative projects that dri
 
 ## LinkedIn Profile
 
-Connect with me on [LinkedIn](www.linkedin.com/in/dhruv-bundheliya-a50004287).
+Connect with me on [LinkedIn](https://www.linkedin.com/in/dhruv-bundheliya-a50004287/).
 
 Thank you for visiting!
 
