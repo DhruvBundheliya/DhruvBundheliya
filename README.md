@@ -14,23 +14,21 @@
 ## Education
 
 <div style="display: flex; align-items: center;">
-  <img src="images/university.jpeg" alt="Uka Tarsadia University" style="width: 100px; height: 100px; margin-right: 20px;">
-
-  <div>
-    <p><strong>Uka Tarsadia University</strong></p>
-    <p>Bachelor of Technology - BTech, Information Technology</p>
-    <p>Jun 2018 - Jun 2022</p>
-  </div>
+  <table style="border-collapse: collapse solid white;">
+    <tr>
+      <td style="border-right: 1px solid white; padding-right: 20px;">
+        <img src="images/university.jpeg" alt="Uka Tarsadia University" style="width: 100px; height: 100px;">
+      </td>
+      <td style="padding-left: 20px;">
+        <p><strong>Uka Tarsadia University</strong></p>
+        <p>Bachelor of Technology - BTech, Information Technology</p>
+        <p>Jun 2018 - Jun 2022</p>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ## Skills
-
-### Development
-
-- Django
-- Bootstrap (Framework)
-- Cascading Style Sheets (CSS)
-- HTML
 
 ### Operational
 
@@ -42,46 +40,56 @@
 - Prometheus
 - Jenkins
 - ArgoCD
+
+### Development
+
+- Django
+- Bootstrap (Framework)
+- Cascading Style Sheets (CSS)
+- HTML
+- 
 <br>
 
 ## Licenses & Certifications
 
-<div style="display: flex; align-items: center;">
-  <img src="images/CKA.png" alt="CKA: Certified Kubernetes Administrator" style="width: 100px; height: 100px; margin-right: 20px;">
-  
-  <div>
-    <p><strong>CKA: Certified Kubernetes Administrator</strong></p>
-    <p>Issued Sep 2023 · Expires Sep 2026</p>
-  </div>
-</div>
-<br>
-<div style="display: flex; align-items: center;">
-  <img src="images/AWS.png" alt="AWS Certified Developer – Associate" style="width: 100px; height: 100px; margin-right: 20px;">
-  
-  <div>
-    <p><strong>AWS Certified Developer – Associate</strong></p>
-    <p>Issued Feb 2022 · Expires Feb 2025</p>
-  </div>
-</div>
-<br>
-<div style="display: flex; align-items: center;">
-  <img src="images/AWS.png" alt="AWS Certified Cloud Practitioner" style="width: 100px; height: 100px; margin-right: 20px;">
-  
-  <div>
-    <p><strong>AWS Certified Cloud Practitioner</strong></p>
-    <p>Issued Dec 2021 · Expires Feb 2025</p>
-  </div>
-</div>
-<br>
-<div style="display: flex; align-items: center;">
-  <img src="images/edx.png" alt="Cloud Computing Core" style="width: 100px; height: 70px; margin-right: 20px;">
-  
-  <div>
-    <p><strong>Cloud Computing Core</strong></p>
-    <p>Issued Jul 2021</p>
-  </div>
-</div>
-<br>
+<table style="border-collapse: collapse solid white;">
+  <tr>
+    <td style="border-right: 1px solid white; padding-right: 20px;">
+      <img src="images/CKA.png" alt="CKA: Certified Kubernetes Administrator" style="width: 100px; height: 100px; margin-right: 20px;">
+    </td>
+    <td style="padding-left: 20px;">
+      <p><strong>CKA: Certified Kubernetes Administrator</strong></p>
+      <p>Issued Sep 2023 · Expires Sep 2026</p>
+    </td>
+  </tr>
+  <tr>
+    <td style="border-right: 1px solid white; padding-right: 20px;">
+      <img src="images/AWS.png" alt="AWS Certified Developer – Associate" style="width: 100px; height: 100px; margin-right: 20px;">
+    </td>
+    <td style="padding-left: 20px;">
+      <p><strong>AWS Certified Developer – Associate</strong></p>
+      <p>Issued Feb 2022 · Expires Feb 2025</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="images/AWS.png" alt="AWS Certified Cloud Practitioner" style="width: 100px; height: 100px; margin-right: 20px;">
+    </td>
+    <td style="padding-left: 20px;">
+      <p><strong>AWS Certified Cloud Practitioner</strong></p>
+      <p>Issued Dec 2021 · Expires Feb 2025</p>
+    </td>
+  </tr>
+  <tr style="height: 100px;">
+    <td style="height: 100px;">
+      <img src="images/edx.png" alt="Cloud Computing Core" style="width: 100px; height: 100px; margin-right: 20px;">
+    </td>
+    <td style="height: 100px;">
+      <p><strong>Cloud Computing Core</strong></p>
+      <p>Issued Jul 2021</p>
+    </td>
+  </tr>
+</table>
 
 ## LinkedIn Profile
 
