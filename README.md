@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:FFBF00,100:00BFFF&height=100&section=header&text=Hi,%20This%20is%20Dhruv&fontSize=45)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:FFBF00,100:00BFFF&height=150&section=header&text=Hi,%20This%20is%20Dhruv&fontSize=45)
 
 ## Operational Skills
 
